@@ -1,5 +1,6 @@
 #root {
   display: flex;
+  flex-direction: column;
   margin: 0 auto;
   text-align: center;
 }
@@ -7,10 +8,10 @@
 header {
   background-color: #222;
   width: 100vw;
+  padding: 18px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
 }
 
 header h1 {
@@ -27,6 +28,7 @@ header nav {
 header nav a {
   margin-right: 0.8em;
   font-size: 1.8em;
+  color: #f44545;
 }
 
 header h1,

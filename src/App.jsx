@@ -1,37 +1,43 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import { data } from './data'
+import "./App.css";
+
+import { Table } from "./Table";
+import { FaGraduationCap, FaMailBulk, FaUniversity } from "react-icons/fa";
 
 function App() {
   return (
     <>
-  <table>
-          <tr>
-              <th>Número</th>
-              <th>Sorteio</th>
-              <th>Postagem</th>
-              <th>
-                <span>Temática</span>
-                <input type="text"/>
-              </th>
-          </tr>
+      <header>
+        <a href="./index.html">
+          <h1>Desinformação na Internet</h1>
+        </a>
 
-        {
-          data.map((item,index)=>(
-<tr>
-  <td>{index+1}</td>
-  <td>{item.sorteio}</td>
-  <td>{item.postagem}</td>
-  <td>{item.tematica}</td>
-</tr>
-          ))
-        }        
-        
-        </table>
+        <nav>
+          <a href="" target="_blank" aria-label="Visite o Repositório UFBA">
+            <FaUniversity />
+          </a>
+
+          <a
+            href="mailto:michelle.p.gomez@gmail.com"
+            aria-label="Envie um E-mail para Michelle Pacheco Gómez"
+          >
+            <FaMailBulk />
+          </a>
+
+          <a
+            href="http://lattes.cnpq.br/3254449343777451"
+            target="_blank"
+            aria-label="Visite o Lattes de Michelle Pacheco Gómez"
+          >
+            <i class="fa-solid fa-clipboard-user"></i>
+            <FaGraduationCap />
+          </a>
+        </nav>
+
+
+      </header>
+      <Table />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
