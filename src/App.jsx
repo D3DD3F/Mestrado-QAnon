@@ -1,17 +1,23 @@
+import { useState } from "react";
 import "./App.css";
+import { Home } from "./Home";
 
 import { Table } from "./Table";
 import { FaGraduationCap, FaMailBulk, FaUniversity } from "react-icons/fa";
 
 function App() {
+  const [showTable, setShowTable] = useState(false);
+
   return (
     <>
       <header>
-        <a href="./index.html">
+        <a href="/index.css">
           <h1>Desinformação na Internet</h1>
         </a>
 
         <nav>
+          <button onClick={() => setShowTable(!showTable)}>Abacaxi</button>
+
           <a href="" target="_blank" aria-label="Visite o Repositório UFBA">
             <FaUniversity />
           </a>
@@ -32,10 +38,8 @@ function App() {
             <FaGraduationCap />
           </a>
         </nav>
-
-
       </header>
-      <Table />
+      {showTable ? <Table /> : <Home />}
     </>
   );
 }
