@@ -18,6 +18,7 @@ header h1 {
   font-size: 2.3em;
   font-weight: 120;
   cursor: pointer;
+  margin-left: 0.1em;
 }
 
 header nav {
@@ -27,6 +28,7 @@ header nav {
 
 header nav a {
   margin-right: 0.8em;
+
   font-size: 1.8em;
   color: #f44545;
 }
@@ -92,107 +94,44 @@ a {
   text-decoration: none;
   color: #fff;
 }
-main figure {
+figure {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
-main figure img {
-  width: 350px;
-  height: 350px;
+figure img {
+  width: 300px;
+  height: 300px;
   border-radius: 300px;
 
   margin-bottom: 6%;
   cursor: pointer;
-  border: 1px #00e0ff;
+  border: 1px #ffffff;
   transition: 0.2s ease-in-out;
 }
 
-main figure img:hover {
+figure img:hover {
   box-shadow: 0px 0px 8px #f44545;
 }
 
-main {
-  padding: 3%;
-  display: flex;
+article {
+  padding: 2%;
   align-items: center;
   justify-content: space-between;
 }
 
-main .main-content {
+article .main-content {
   display: flex;
   flex-direction: column;
 }
 
-main .main-content h2 {
-  margin-bottom: 1%;
-  font-size: 1.9em;
-}
-
-main .main-content .text {
-  margin-bottom: 4%;
-}
-
-main .main-content .text p {
-  width: 80%;
-  font-size: 1em;
+article .main-content .text p {
+  width: 60%;
+  font-size: 9em;
   font-weight: 300;
-  line-height: 1.6;
-}
-
-main .Icone .cards-container {
-  display: flex;
-  align-items: center;
-}
-
-main .Icone .cards-container .card {
-  margin-top: 1.5%;
-  width: 80px;
-  height: 80px;
-  padding: 1px;
-  background-color: #a7a7a7e8;
-  border-radius: 100px;
-  margin-right: 0.6em;
-  margin-left: 0.6em;
-  cursor: pointer;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  transition: box-shadow 0.25s ease-in-out;
-}
-
-main .Icone .cards-container .card img {
-  width: 70%;
-  margin-left: 0.6em;
-}
-
-main .Icone .cards-container .card:hover {
-  box-shadow: 0px 0px 10px #f44545;
-}
-
-main .pag2 {
-  display: flex;
-  flex-direction: column;
-}
-
-main .pag2 h2 {
-  margin-bottom: 1%;
-  font-size: 1.9em;
-}
-
-main .pag2 .text1 {
-  margin-bottom: 1%;
-}
-
-main .pag2 .text1 p {
-  width: 100%;
-  font-size: 1em;
-  font-weight: 200;
-  line-height: 1;
+  line-height: 2;
 }
 
 footer {

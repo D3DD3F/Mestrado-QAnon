@@ -3,7 +3,7 @@ import "./App.css";
 import { Home } from "./Home";
 
 import { Table } from "./Table";
-import { FaGraduationCap, FaMailBulk, FaUniversity } from "react-icons/fa";
+import { FaGraduationCap, FaMailBulk, FaTable, FaUniversity } from "react-icons/fa";
 
 function App() {
   const [showTable, setShowTable] = useState(false);
@@ -11,12 +11,14 @@ function App() {
   return (
     <>
       <header>
-        <a href="/index.css">
-          <h1>Desinformação na Internet</h1>
+        <a href="">
+          <h1>Ciência da Informação</h1>
         </a>
 
         <nav>
-          <button onClick={() => setShowTable(!showTable)}>Abacaxi</button>
+          <a aria-label="Tabela com as postagens QAnon" onClick={() => setShowTable(!showTable)}>
+          <FaTable />
+         </a>
 
           <a href="" target="_blank" aria-label="Visite o Repositório UFBA">
             <FaUniversity />

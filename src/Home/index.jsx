@@ -4,7 +4,8 @@ export const Home = () => {
       {" "}
       <section class="main-content">
         <article class="text">
-          <h2>Michelle Pacheco Gómez</h2>
+          <h2>Desinformação na Internet: O QAnon como Regime de Informação</h2>
+          <br />
 
           <p>
             Este estudo enfoca os Regimes de Informação, em sua relação com os
@@ -39,10 +40,9 @@ export const Home = () => {
         </article>
 
         <figure>
-      <img src="/Michelle.JPG" alt="Imagem de Michelle Pacheco Gómez" />
-      <figcaption>Michelle Pacheco Gómez</figcaption>
-    </figure>
-
+          <img src="/Michelle.JPG" alt="Imagem de Michelle Pacheco Gómez" />
+          <figcaption>Michelle Pacheco Gómez</figcaption>
+        </figure>
       </section>
     </>
   );
