@@ -3,7 +3,7 @@ export const Home = () => {
     <>
       {" "}
       <section class="main-content">
-        <article class="text">
+        <article class="text.home">
           <h2>Desinformação na Internet: O QAnon como Regime de Informação</h2>
           <br />
 
