@@ -42,6 +42,7 @@ export const Home = () => {
         <figure>
           <img src="/Michelle.JPG" alt="Imagem de Michelle Pacheco Gómez" />
           <figcaption>Michelle Pacheco Gómez</figcaption>
+          <br />
         </figure>
       </section>
     </>

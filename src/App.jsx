@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import { Home } from "./Home";
 import { Table } from "./Table/index.jsx";
-import { data } from "./Table/data.js";
+
 import {
   FaGraduationCap,
   FaMailBulk,
