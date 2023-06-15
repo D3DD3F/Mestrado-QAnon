@@ -27,7 +27,7 @@ export const Table = () => {
     { value: "Política", label: "Política" },
     { value: "Prece", label: "Prece" },
     { value: "Programa Espacial", label: "Programa Espacial" },
-    { value: "Qanon", label: "Qanon" },
+    { value: "QAnon", label: "QAnon" },
     { value: "Religião", label: "Religião" },
     { value: "Saúde", label: "Saúde" },
     { value: "Trump", label: "Trump" },
@@ -52,15 +52,14 @@ export const Table = () => {
         <p>
           <ul>
             <li>
-              Para agrupar as postagens de acordo com a classificação temática,
-              clique na seta no campo "Selecione uma opção temática", marque a
-              opção desejada e clique na lupa ao lado. A tabela será filtrada de
+              Para filtrar as postagens de acordo com a classificação temática,
+              clique na seta no campo "Selecione uma opção temática". <br/>A tabela será filtrada de
               acordo com a opção selecionada.
             </li>
 
             <li>
-              Para ter a tabela completa novamente, escolha a opção "Selecione
-              uma opção temática" e clique na lupa.
+              Para visualizar a tabela completa novamente, escolha a opção "Selecione
+              uma opção temática". A tabela será restaurada.
             </li>
 
             <li>

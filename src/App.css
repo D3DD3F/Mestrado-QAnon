@@ -17,8 +17,8 @@ header {
 }
 
 header h1 {
-  font-size: 2.3em;
-  font-weight: 1em;
+  font-size: 1.9em;
+  font-weight: 0.4em;
   cursor: pointer;
   margin-left: 0.4em;
 }
@@ -31,7 +31,8 @@ header nav {
 }
 
 header nav a {
-  margin-right: 0.8em;
+  margin-right: 0.9em;
+  padding: 0.1em;
   font-size: 1.8em;
   color: #f44545;
 }
@@ -95,8 +96,6 @@ body {
   min-height: 100%;
 }
 
-
-
 a {
   text-decoration: none;
   color: #fff;
@@ -121,9 +120,12 @@ figure img {
   cursor: pointer;
   border: 1px #ffffff;
   transition: 0.2s ease-in-out;
-  border-bottom: 16px;
+  border-bottom: 3em;
 }
 
+figcaption {
+  margin-bottom: 1.3em;
+}
 figure img:hover {
   box-shadow: 0px 0px 8px #f44545;
 }
@@ -152,7 +154,7 @@ text {
 
 .DropDown {
   border-radius: 12px;
-  padding: 8px; /* Adicione um preenchimento para evitar que o texto encoste nas bordas */
+  padding: 8px;
   width: 250px;
   margin-top: 1em;
   margin-bottom: 1.5em;

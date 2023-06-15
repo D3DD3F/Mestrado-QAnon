@@ -35,14 +35,13 @@ export const Home = () => {
             <br />
             <br />
             <b>Palavras-chave</b>: desinformação; fake news; Regimes de
-            Informação; QAnon; pós-verdade.
+            Informação; QAnon; pós-verdade.
           </p>
         </article>
 
         <figure>
-          <img src="michelle.jpg" alt="Imagem de Michelle Pacheco Gómez" />
+          <img src="https://docs.google.com/uc?id=1hJLFRbivtR9mMHNV2M_mqZcseJiONpnx" alt="Imagem de Michelle Pacheco Gómez" />
           <figcaption>Michelle Pacheco Gómez</figcaption>
-          <br />
         </figure>
       </section>
     </>

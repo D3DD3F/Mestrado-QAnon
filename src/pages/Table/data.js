@@ -412,7 +412,7 @@ export const data = [
   {
     sorteio: 487,
     postagem: `>>13061 Coincidence? Q / >>13097 team is working late. damn. big things afoot, eh? / >>13129 Could you sleep if you knew the truth about EVERYTHING? Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 490,
@@ -608,7 +608,7 @@ export const data = [
   {
     sorteio: 768,
     postagem: `Newsweek problems? http://www.newsweek.com/how-storm-biggest-fake-news-story-796725 Strike back against us? MSM not happy? "Conspiracy" label. Re_read crumbs re: "conspiracy" / MSM coverage. Who will be next? They are here. They will try to discredit. They are stupid. They bring more eyes. The 'proofs' are important. 'Proofs' provide new 'eyes' ability to question. This board in the coming months will be spread & discussed across ALL PLATFORMS. Important to be prepared. We will help. TRUTH always wins. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 784,
@@ -1113,7 +1113,7 @@ export const data = [
   {
     sorteio: 1399,
     postagem: `(Imagem com postagem de Mike Pampeo sobre nomear operações) This has probably already been posted. Thought it was funny / >>1444632 The hard part for us is having to wait for the 'public' to 'know' what we've known for a very long time. There is no bigger threat to 'them' than the public being awake and thinking for themselves. Why are we here? Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 1408,
@@ -1218,7 +1218,7 @@ export const data = [
   {
     sorteio: 1528,
     postagem: `(Imagem de muro pixado com #QAnon) Barcelona. The World is watching. Truth. Light. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 1534,
@@ -1267,8 +1267,8 @@ export const data = [
   },
   {
     sorteio: 1560,
-    postagem: `(Imagem com lista de links a respeito do QAnon) Sample. Why so much attention? https://amp.thedailybeast.com/qanon-the-crazy-pro-trump-conspiracy-melts-down-over-oig-report?__twitter_impression=true https://www.vice.com/en_us/article/ywex8v/what-is-qanon-conspiracy-theory “Conspiracy.” Q`,
-    tematica: "Qanon",
+    postagem: `(Imagem com lista de links a respeito do QAnon) Sample. Why so much attention? https://amp.thedailybeast.com/QAnon-the-crazy-pro-trump-conspiracy-melts-down-over-oig-report?__twitter_impression=true https://www.vice.com/en_us/article/ywex8v/what-is-qanon-conspiracy-theory “Conspiracy.” Q`,
+    tematica: "QAnon",
   },
   {
     sorteio: 1566,
@@ -1338,7 +1338,7 @@ export const data = [
   {
     sorteio: 1617,
     postagem: `Only the beginning. Power to the people. http://time.com/5324130/most-influential-internet/ Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 1626,
@@ -1389,7 +1389,7 @@ export const data = [
   {
     sorteio: 1657,
     postagem: `Do you feel the emotion/anger this writer has? http://www.businessinsider.com/conspiracy-theories-in-trump-era-political-arguments-2018-6 Doxxing the billboard owners? https://www.snopes.com/news/2018/06/29/billboards-promoting-4chan-conspiracy-theory/ They are scared of you. Nothing is more powerful than the public being awake and collectively free-thinking / talking / etc. Stay UNITED! Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 1658,
@@ -1414,7 +1414,7 @@ export const data = [
   {
     sorteio: 1665,
     postagem: `(Imagem de charge sobre a Política dividida dos Estados Unidos com referência a Q) Thank you, Ben. We rather enjoyed this one. WWG1WGA! Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 1676,
@@ -1656,7 +1656,7 @@ export const data = [
   {
     sorteio: 1932,
     postagem: `https://www.reddit.com/r/greatawakening/comments/98yduw/connnecting_some_dots/ The Great Awakening. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 1933,
@@ -2429,7 +2429,7 @@ export const data = [
   {
     sorteio: 2801,
     postagem: `Pick a Network – Any Network. Search ‘Qanon’ https://www.nbcnews.com/pages/search/?q=qanon https://abcnews.go.com/search?searchtext=qanon https://www.washingtonpost.com/newssearch/?datefilter=All%20Since%202005&query=qanon&sort=Relevance&utm_term=.d3e179a0682e https://www.nytimes.com/search?query=qanon https://www.cnn.com/search/?q=qanon http://www.msnbc.com/search/qanon https://www.newsweek.com/search/site/qanon http://fortune.com/search/?q=qanon https://www.wired.com/search/?q=qanon&page=1&sort=score https://www.theguardian.com/us (search: Qanon) https://www.npr.org/search?query=qanon&page=1 https://www.vox.com/search?q=qanon https://www.gq.com/search?q=qanon https://www.pbs.org/search/?q=qanon https://www.theverge.com/search?q=qanon https://observer.com/?s=qanon https://www.aljazeera.com/Search/?q=qanon https://www.foxnews.com/search-results/search?q=qanon https://www.breitbart.com/search/?s=qanon#gsc.tab=0&gsc.q=qanon&gsc.page=1 https://psmag.com/search?query=qanon https://www.newyorker.com/search/q/qanon https://www.latimes.com/search/?q=qanon https://www.seattletimes.com/search/?query=qanon&sortby=mostrecent&page=1&perpage=20 https://www.esquire.com/search/?q=qanon https://www.thesun.co.uk/?s=qanon https://www.bbc.co.uk/search?q=qanon https://www.jpost.com/Arab-Israeli-Conflict/Muslim-woman-fights-for-Israel-despite-death-threats-watch-581066#/search;query=qanon https://qz.com/search/qanon/ http://nymag.com/search.html?q=qanon https://www.politico.com/search?q=qanon https://thehill.com/search/site/qanon https://search.huffingtonpost.com/search?utf8= ✓&p=qanon&fr=huffpost http://time.com/search/?q=qanon https://www.vice.com/en_us/search?q=qanon https://www.salon.com/search/qanon https://www.dailydot.com/?s=qanon https://www.miaminewtimes.com/search?keyword=qanon https://www.rollingstone.com/results/#?q=qanon https://motherboard.vice.com/en_us/search?q=qanon https://www.snopes.com/?s=qanon https://www.buzzfeed.com/search?q=qanon https://www.mediamatters.org/search/index?qstring=qanon http://thefederalist.com/?s=qanon Reconcile. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 2802,
@@ -2521,7 +2521,7 @@ export const data = [
   {
     sorteio: 2924,
     postagem: `>>5476411 / (Imagem trazendo "provas" do que Q fala, comparando a postagem 2173 e declaração de imprensa) >>5476414 / >>5476450`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 2925,
@@ -2686,12 +2686,12 @@ export const data = [
   {
     sorteio: 3087,
     postagem: `(Imagem de postagem conectando duas ligações telefônicas e Q) Powerful statement of UNITY. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3088,
     postagem: `(Imagem de postagem conectando duas ligações telefônicas e Q) Powerful statement of UNITY. Q / >>5704151 You are slipping Boss. Already made notes, kek / >>5704197 Busy saving humanity. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3089,
@@ -2817,7 +2817,7 @@ export const data = [
   {
     sorteio: 3219,
     postagem: `https://twitter.com/Complex/status/1110659711962103811 Attacks increasing? Becoming more and more outlandish to paint as 'crazy'? #FAKENEWS #FACTSMATTER Q / >>5910024 Does their stupidity ever stop being so amusing? Hasn't for me. / >>5910048 Badge of Honor, Patriot. Over the TARGET. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3223,
@@ -2994,7 +2994,7 @@ export const data = [
   {
     sorteio: 3416,
     postagem: `The bullshit has gone on long enough, we are changing the standard for Q Research General bakes. Too many groups are trying to control the narrative by gatekeeping the bake. New General Breads will only have the 1st post of the current dough so that Q's posts are always at the top of the bread. If you want a place to post tools and resources bake a new thread and maintain it. Going forward all anons can submit notable buns for General Breads to this thread. >>7003045 Q Research Notables Thread. Only full buns will be accepted and more than one bun per bread is allowed. Baker Use this for your next dough https://pastebin.com/pSdyjpiF / >>7003060 I think the war room and links to qproofs and tools are essential components of the bread. They are up there to help anons and new lurkers to Q research . It is one post per bread and has vital information for anons and newfags and normies. It has the links to the sealed court cases, etc. If you cut that out of the bread you are cutting out the heart of Q research. That war room bread post will be essential to new eyes coming to the boards. The shills attack bakers all the time and the bread, and they have since the beginning. As a longtime anon i don't think this is a wise choice. Also captcha did not stop any shills, it just made things more difficult for all of us. ( like when your trying to post something important fast and you get stuck in captcha hell for a minute or 2) As BO you should discuss these decisions with anons , bakers and BV'S before you ( one person) decides to change the way the bread has been since November 2017. I STRONGLY DISAGREE WITH SHORTENING THE BREAD AND KILLING THE WAR ROOM RESEARCH LINKS POST. / >>7003276`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3419,
@@ -3210,7 +3210,7 @@ export const data = [
   {
     sorteio: 3650,
     postagem: `(Imagem escrito "Panic in DC") [Sample] http://twitter.com/nytimes/status/1203031379413520384 http://twitter.com/JuliaHarte1/status/1202994568125440000 http://twitter.com/pbump/status/1202989929153871872 http://twitter.com/stanveuger/status/1202976120976621569 http://twitter.com/samueloakford/status/1202975001634385922 http://twitter.com/JoeMyGod/status/1202969579221241857 http://twitter.com/AliWatkins/status/1202949538010615809 http://twitter.com/mmcintire/status/1202942304568381441 http://twitter.com/jjmacnab/status/1202928632936534019 http://twitter.com/justinhendrix/status/1202919356184829952 http://twitter.com/ThomasHuchon/status/1202925597686665216 http://twitter.com/peterdaou/status/1203015330433515520 http://twitter.com/willsommer/status/1203006644755599361 http://twitter.com/YahooNews/status/1202996314008686592 http://twitter.com/adamgoldmanNYT/status/1202926356121759744 http://twitter.com/egavactip/status/1203039747272261635 Thinking timing. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3651,
@@ -3240,7 +3240,7 @@ export const data = [
   {
     sorteio: 3688,
     postagem: `(Imagem de relógio) Anons determine significance of 1:29 from [Dec 2] drop? What was released precisely @ 1:29? / (Imagem comparando postagem de Q e notícia do pronunciamento de John Durham) (Imagem de meme dos óculos escuros) >>7516458 >What was released precisely @ 1:29? / >>7516554 Exact time of Durham statement? Think Q/Durham start date. Coincidence? Having fun yet? Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3689,
@@ -3510,7 +3510,7 @@ export const data = [
   {
     sorteio: 3924,
     postagem: `(Imagem de postagem com a tag #WWG1WGA)`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3925,
@@ -3910,7 +3910,7 @@ export const data = [
   {
     sorteio: 4426,
     postagem: `Important to understand. MSDNC [+social media] projection we are the minority is false. WE ARE THE MAJORITY AND GROWING EVERY SECOND OF THE DAY. MSDNC [+social media] projection we are divided is false. WE ARE UNITED AND ONLY GETTING STRONGER. People are awake and see what is happening. Patriots have no skin color. Humanity is good. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 4428,
@@ -4136,8 +4136,8 @@ export const data = [
   },
   {
     sorteio: 4653,
-    postagem: `[Past 12 hours] https://www.justsecurity.org/72339/qanon-is-a-nazi-cult-rebranded/ https://www.alternet.org/2020/09/expert-on-genocide-and-anti-semitism-lays-out-the-frightening-parallels-between-qanon-and-hitlers-nazis/ https://www.newsbreak.com/news/2058065696143/in-qanon-nazism-wants-a-comeback-anti-semitism-expert-reveals-parallels-between-qanon-and-nazism? https://www.salon.com/2020/09/10/in-qanon-nazism-wants-a-comeback-anti-semitism-expert-reveals-parallels-between-qanon-and-nazism_partner/ https://www.thenewcivilrightsmovement.com/2020/09/the-frightening-parallels-between-qanon-and-hitlers-nazis/ Sensitive subject? Over the target? Q`,
-    tematica: "Qanon",
+    postagem: `[Past 12 hours] https://www.justsecurity.org/72339/QAnon-is-a-nazi-cult-rebranded/ https://www.alternet.org/2020/09/expert-on-genocide-and-anti-semitism-lays-out-the-frightening-parallels-between-qanon-and-hitlers-nazis/ https://www.newsbreak.com/news/2058065696143/in-qanon-nazism-wants-a-comeback-anti-semitism-expert-reveals-parallels-between-qanon-and-nazism? https://www.salon.com/2020/09/10/in-qanon-nazism-wants-a-comeback-anti-semitism-expert-reveals-parallels-between-qanon-and-nazism_partner/ https://www.thenewcivilrightsmovement.com/2020/09/the-frightening-parallels-between-qanon-and-hitlers-nazis/ Sensitive subject? Over the target? Q`,
+    tematica: "QAnon",
   },
   {
     sorteio: 4662,
@@ -4333,7 +4333,7 @@ export const data = [
   {
     sorteio: 4861,
     postagem: `>>11070251 Hey Q , how are we doing so far? Almost 3 years in now. / >>11070287 [Past 7 Days] https://www.bing.com/news/search?q=qanon&qft=interval%3d%228%22&form=PTFTNR >House resolution passed condemning 'Qanon' >House intel committee meeting tomorrow re: 'Qanon' Gauge for yourself, Anon. Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 4872,
