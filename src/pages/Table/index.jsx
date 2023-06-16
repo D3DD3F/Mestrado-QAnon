@@ -53,13 +53,13 @@ export const Table = () => {
           <ul>
             <li>
               Para filtrar as postagens de acordo com a classificação temática,
-              clique na seta no campo "Selecione uma opção temática". <br/>A tabela será filtrada de
+              clique na seta no campo em branco. <br />A tabela será filtrada de
               acordo com a opção selecionada.
             </li>
 
             <li>
-              Para visualizar a tabela completa novamente, escolha a opção "Selecione
-              uma opção temática". A tabela será restaurada.
+              Para visualizar a tabela completa novamente, escolha a opção em
+              branco. A tabela será restaurada.
             </li>
 
             <li>
@@ -77,9 +77,15 @@ export const Table = () => {
           onChange={handleSearch}
         >
           {categories.map((category) => (
-            <option value={category.value}>{category.label}</option>
+            <option key={category.label}>{category.value}</option>
           ))}
         </select>
+      </div>
+
+      <div className="Contador">
+        <p>
+          Exibindo {filtered.length} de {data.length} resultados
+        </p>
       </div>
 
       <table>

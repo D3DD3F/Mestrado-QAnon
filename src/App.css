@@ -35,7 +35,6 @@ header nav a {
   color: #f44545;
   align-items: center;
   margin-top: 4px;
-
 }
 
 header h1,
@@ -107,7 +106,7 @@ a {
 }
 
 a:hover {
-  color: #d74c4c;
+  color: #f44545;
   cursor: pointer;
 }
 
@@ -162,8 +161,18 @@ text {
   padding: 8px;
   width: 250px;
   margin-top: 1em;
-  margin-bottom: 1.5em;
+  margin-bottom: 0.5em;
   margin-right: 0.8em;
+}
+
+.Contador {
+  margin-top: 0.1em;
+  margin-bottom: 1em;
+  margin-left: 34.5vw;
+}
+
+.Contador:hover {
+  color: #f44545;
 }
 
 footer {

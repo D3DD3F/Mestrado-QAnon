@@ -40,7 +40,10 @@ export const Home = () => {
         </article>
 
         <figure>
-          <img src="https://docs.google.com/uc?id=1hJLFRbivtR9mMHNV2M_mqZcseJiONpnx" alt="Imagem de Michelle Pacheco Gómez" />
+          <img
+            src="https://docs.google.com/uc?id=1hJLFRbivtR9mMHNV2M_mqZcseJiONpnx"
+            alt="Imagem de Michelle Pacheco Gómez"
+          />
           <figcaption>Michelle Pacheco Gómez</figcaption>
         </figure>
       </section>
