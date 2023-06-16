@@ -1526,7 +1526,7 @@ export const data = [
   {
     sorteio: 1775,
     postagem: `(Imagens de seguidores do QAnon com cartazes) How often does the Presidential motorcade honk upon request?https://www.youtube.com/watch?v=cl51wZVdwYA #TryHarderMSM #AskTheQ Tampa Rally looking great! WWG1WGA! Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 1777,
@@ -3004,7 +3004,7 @@ export const data = [
   {
     sorteio: 3426,
     postagem: `https://twitter.com/politicalwire/status/1149695037204312067 Try Harder! Nothing can stop what is coming. Nothing! Q`,
-    tematica: "Qanon",
+    tematica: "QAnon",
   },
   {
     sorteio: 3432,
