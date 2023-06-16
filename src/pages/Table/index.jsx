@@ -66,6 +66,11 @@ export const Table = () => {
               Para voltar para a página inicial, clique no título do site ou no
               ícone da tabela.
             </li>
+
+            <li>
+              Atualmente o site está configurado para ser utilizado no
+              computador, caso visualize pelo celular a formatação estará desconfigurada.
+            </li>
           </ul>
         </p>
       </text>
