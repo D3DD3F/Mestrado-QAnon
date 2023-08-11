@@ -3,7 +3,7 @@
 <p align="center">
 Essa é minha primeira entrega real! ❤️
 
-Projeto encomendado e desenvolvido para apresentação da dissertação de mestrado "Desinformação na Internet: O QANON como regime de informação." na UFBA - Universidade Federal da Bahia, indicada para participar do Prêmio ANCIB 2024.<br/>
+Projeto encomendado e desenvolvido para apresentação da Dissertação de Mestrado em Ciência da Informação entitulado: "Desinformação na Internet: O QANON como Regime de Informação", parte do Programa de Pós-Graduação em Ciência da Informação da UFBA - Universidade Federal da Bahia, indicada para participar do Prêmio ANCIB 2024.<br/>
 </p>
 
 <p align="center">
