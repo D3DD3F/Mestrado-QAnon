@@ -1,9 +1,9 @@
 <h1 align="center"> Mestrado-QAnon </h1>
 
 <p align="center">
-Esse é o minha primeira entrega real! ❤️
+Essa é minha primeira entrega real! ❤️
 
-Projeto encomendado e desenvolvido para apresentação da dissertação de mestrado "Desinformação na Internet: O QANON como regime de informação." na UFBA - Universidade Federal da Bahia. <br/>
+Projeto encomendado e desenvolvido para apresentação da dissertação de mestrado "Desinformação na Internet: O QANON como regime de informação." na UFBA - Universidade Federal da Bahia, indicada para participar do Prêmio ANCIB 2024.<br/>
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a monitorar os hábitos.
+Projeto desenvolvido para apresentação de um grande volume de dados em tabela, que não seria possível ser impresso pela quantidade de folhas [200 folhas só de tabela]; 
+Visuando o cuidado com o meio ambiente e o uso da tecnologia, cliente optou em criar um site para essa apresentação, inovando na demonstração de dados.   
 
-- [Visite o projeto online](https://d3dd3f.github.io/Habits)
+- [Visite o projeto online](d3dd3f.github.io/Mestrado-QAnon/)
