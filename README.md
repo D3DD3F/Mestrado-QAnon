@@ -13,6 +13,9 @@ Projeto encomendado e desenvolvido para apresentação da Dissertação de Mestr
 
 <br>
 
+<p align="center">
+  <img alt="projeto QAnon" src=".github/preview.jpg" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
